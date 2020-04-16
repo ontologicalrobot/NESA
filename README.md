@@ -1,5 +1,2 @@
-# NESA
-School related snippets
-
-This is a repository for all things Network Engineering and Security Analysis.
-It could become something, it could remain nothing. Let's find out.
+# Self-Directed Training & Projects
+A sort or to-do list of extra-curricular training & sundries.
